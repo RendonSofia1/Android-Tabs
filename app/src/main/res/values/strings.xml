@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="animale">Reino Animal</string>
+    <string name="animale_text">El reino Animalia es el más evolucionado y se divide en dos grandes grupos:
+        vertebrados e invertebrados. Los animales son seres pluricelulares y eucariotas de alimentación heterótrofa,
+        respiración aeróbica, reproducción sexual y capacidad de desplazamiento.
+        Este reino es uno de los más biodiversos y está compuesto por mamíferos, peces, aves, reptiles, anfibios,
+        insectos, moluscos y anélidos, entre otros.</string>
+    <string name="plantae">Reino Vegetal</string>
+    <string name="plantae_text">Los árboles, las plantas y demás especies vegetales forman parte del reino Plantae,
+        uno de los más antiguos y que se caracteriza por su naturaleza inmóvil, pluricelular y eucariota.
+        Estos seres autótrofos, que contienen celulosa y clorofila en sus células, son imprescindibles para la vida
+        en la Tierra al liberar oxígeno a través de la fotosíntesis. En cuanto a la forma de reproducirse,
+        esta puede ser de tipo sexual o asexual.</string>
+    <string name="fungi">Reino Fungi</string>
+    <string name="fungi_text">Este nombre se utiliza para designar al reino de los hongos, que contempla a las levaduras,
+        los mohos y todas las especies de setas. Estos organismos pluricelulares, aerobios, eucariotas y heterótrofos
+        contienen quitina en sus paredes celulares, parasitan a otros seres vivos para alimentarse y se reproducen mediante esporas.</string>
+    <string name="protista">Reino Protista</string>
+    <string name="protista_text">El reino protista es el grupo más primitivo de los eucariotas. De él provienen todos los demás.
+        Es un reino parafilético y engloba a aquellos organismos eucariotas que no se consideran ni animales, ni plantas ni hongos,
+        como los protozoos y las algas. Es difícil de caracterizar porque es muy heterogéneo y sus integrantes tiene muy pocas cosas en común.</string>
+    <string name="monera">Reino Monera</string>
+    <string name="monera_text">En este reino pertenecen los microorganismos procariotas, con una pared de peptidoglicano
+        o mureína, un compuesto que permite que las bacterias sean más resistentes a los agentes externos.
+        Las móneras son unicelulares y viven en diferentes medios como el agua, el aire, el suelo, en el interior de otros seres vivos, etc.
+        Algunas de estas bacterias pueden ser beneficiosas para las personas, en cambio, otras, causan enfermedades.</string>
+
+</resources>
